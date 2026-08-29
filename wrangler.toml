@@ -1,6 +1,6 @@
-name = "deepseek-ai-deepseek-v4-flash-0731"
+name = "ds-v4-flash"
 main = "src/worker.js"
-compatibility_date = "2026-03-11"
+compatibility_date = "2025-08-01"
 
 [assets]
 directory = "./public"
