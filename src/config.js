@@ -2,6 +2,7 @@ export const DEFAULT_MODEL = "deepseek-ai/deepseek-v4-flash-0731";
 
 export const MODELS = [
   { id: "deepseek-ai/deepseek-v4-flash-0731", label: "DeepSeek V4 Flash", persona: 1 },
+  { id: "nvidia/nemotron-3-super-120b-a12b", label: "Nemotron 3 Super", persona: 1 },
 ];
 
 export const PROMPT_1 = `
